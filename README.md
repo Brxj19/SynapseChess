@@ -9,6 +9,8 @@ SynapseChess is a chess engine and GUI featuring NNUE (Efficiently Updatable Neu
 - Sound effects for moves, captures, and game events
 - Cross-platform: Windows and Mac supported
 
+![SynapseChess Screenshot](assets/screenshots/screenshot.png)
+
 ## Requirements
 
 - Python 3.7+
