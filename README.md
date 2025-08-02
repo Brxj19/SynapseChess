@@ -110,7 +110,3 @@ python engine_test.py
 ## License
 
 MIT License
-
----
-
-**Enjoy
